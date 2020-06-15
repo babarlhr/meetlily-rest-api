@@ -1,5 +1,5 @@
-# Odoo REST API
-This is a module which expose REST API 
+# Meetlily REST API
+This is a Odoo module which expose REST API 
 
 
 ## Installing
